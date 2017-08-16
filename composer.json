@@ -6,6 +6,7 @@
     },
     "require": {
         "phpoffice/phpword": "^0.13.0",
-        "guzzlehttp/guzzle": "~6.0"
+        "guzzlehttp/guzzle": "~6.0",
+        "phpoffice/phpexcel": "^1.8"
     }
 }
